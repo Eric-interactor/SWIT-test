@@ -1,1 +1,2 @@
 # SWIT-test
+go!
