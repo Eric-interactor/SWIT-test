@@ -1,5 +1,2 @@
 # SWIT-test
-Merge !!!
-Go!!
-hi!
-몰루
+Go
